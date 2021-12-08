@@ -13,18 +13,89 @@
 5. What is the difference between angular and angular js?
 6. What are building blocks of angular ?
 7. components?
-8. 
+8. Modules ?
+9. Services ?
+10. Lifecycle of angular ? Angular hooks?
+11. Binding in angular?
+12. String interpolation?
+13. Property binding? event 
+14. Two Way binding?
+15. Promises vs Observables?
+16. Promises --> resolve, reject --> then catch
+17. Observables --> subscibe , observable, observer, error handling ?
+18. Directive ? Types ? explain SAC 
+19. Data sharing methods in angular
+20. data sharing between child and parent .. parent to child (Input) and Child to parent(output)
+21. Decorator?
+22. @ViewChild, @viewChildren decorator
+23. Eventemitter?
+24. Hostlistener?
+25. Dependency injection?
+26. MVVM MVC MVP MCW architecture of angular?
+27. Angular cli?
+28. Async pipe?
+29. Template statement ?
+30. template expression?
+31. Pipe ? Types? Custom .. paramaterized .. chain .. Pure.. Impure  ... Pipetrasform interface
+32. HttpCLient ?
+33. multicasting ?
+34. Angular Routing ? Route guard
+35. route for root ?
+36. Child loading, lazy loading, module, 
+37. Can activate ?
+38. Interceptor ?
+39. JIT vs AOT
+40. Angular view engine.
+41. Google v8 engine and other browser engine
+42. Angular IVY
+43. JIT/AOT/IVY/ setting in angular.json file
+44. Ngupgrade
+45. Polyfills
+46. testbed
+47. Protractor?
+48. e2e testing
+49. hidden vs *ngif 
+50. ngswitch implementation
+51. static flag with view child
+52. bootstrap in angular
+53. providers?
+54. What is angular Form ? Types --> Reactive and template-driven ?
+55. What is building blocks of Forms --> Form Control, Form group, Form Array, ControlValue Accessor
+56. FormBuilder?
+57. Annotation and templates 
+58. How can we create our own library in angular
+59. Update command for angular to latest version
+60. providedIn keyword in angular 
+61. Package.json use ?
+62. ng-content vs ng-template vs ng-container
+63. List some tools for testing angular applications
+64. REST in Angular
+65. Metadata
+66. 
 
 
-
-To be dicsussed ....
-What is view engine / Angular IVY/ AOT / JIT ?
 What is metadata?
 How compilation works?
 when IVY was introduced ?
 What is transpiler?
-What is angular Form ? Types --> Reactive and template-driven ?
-What is building blocks of Forms --> Form Control, Form group, Form Array, ControlValue Accessor
+what is synchonous vs ansyncronous methods
+arrow functions
+ANgular universal?
+Zone.js
+RXJS
+codelyzer
+BAzeL
+bazel vs webpack vs ivy
+WebPack
+Webworker
+xss attack
+i18n ?
+singleton service?
+ngcc
+SEO
+Authentication and Authorization.
+
+
 
 
 Pure Functions?
@@ -37,3 +108,7 @@ what is interface ? --> An interface is an abstract "class" that is used to grou
 what is static ketword? A static method can be accessed without creating an object of the class first:
 
 Synchronous/Asynchronous behaviour/Ajax, Event handing in JS, Memory management in JS
+Null, undefined ?
+Strict mode
+type casting
+how will you set, get and clear cookies
