@@ -95,20 +95,3 @@ ngcc
 SEO
 Authentication and Authorization.
 
-
-
-
-Pure Functions?
-ENUM ??? difference between enum and class?
-super keyword in OOPS ?
-What is abstract class and abstract method? how to use it ? using extend keyword
-What is break keyword ? --> The break keyword is used to break out a for loop, a while loop or a switch block.
-What is continue keyword ? --> The continue keyword is used to end the current iteration in a for loop (or a while loop), and continues to the next iteration.
-what is interface ? --> An interface is an abstract "class" that is used to group related methods with "empty" bodies ? How to use it ? using implement keyword
-what is static ketword? A static method can be accessed without creating an object of the class first:
-
-Synchronous/Asynchronous behaviour/Ajax, Event handing in JS, Memory management in JS
-Null, undefined ?
-Strict mode
-type casting
-how will you set, get and clear cookies
