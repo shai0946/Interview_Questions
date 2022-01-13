@@ -20,9 +20,9 @@
 12. String interpolation?
 13. Property binding? event 
 14. Two Way binding?
-15. Promises vs Observables?
+15. Promises vs Observables? https://www.syncfusion.com/blogs/post/angular-promises-versus-observables.aspx
 16. Promises --> resolve, reject --> then catch
-17. Observables --> subscibe , observable, observer, error handling ?
+17. Observables --> subscibe , observable, observer, error handling ? vs subject behaviour
 18. Directive ? Types ? explain SAC 
 19. Data sharing methods in angular
 20. data sharing between child and parent .. parent to child (Input) and Child to parent(output)
@@ -73,7 +73,14 @@
 65. Metadata
 66. Metadata vs annotation vs directive vs decorator.
 
+BrowserModule – The browser module is imported from @angular/platform-browser and it is used when you want to run your application in a browser.
+CommonModule – The common module is imported from @angular/common and it is used when you want to use directives - NgIf, NgFor and so on.
+FormsModule – The forms module is imported from @angular/forms and it is used when you build template driven forms.
+RouterModule – The router module is imported from @angular/router and is used for routing RouterLink, forRoot, and forChild.
+HttpClientModule –The HttpClientModule is imported from @angular/common/http and it used to initiate HTTP request and responses in angular apps. 
+                  The HttpClient is more modern and easy to use the alternative of HTTP.
 
+pure vs impure function?
 What is metadata?
 How compilation works?
 when IVY was introduced ?
